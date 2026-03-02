@@ -1,6 +1,7 @@
 Hi everyone 👋
 
 About Me 😄
+
 Currently I'm learning about programing because I would like to create 
 aplications that help the people, automated programs or websites and 
 create fun games!
