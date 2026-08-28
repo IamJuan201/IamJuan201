@@ -1,35 +1,62 @@
 Hi everyone 👋
 
+## About Me 😄
+I am a software development student. I like to build applications that help people, automated programs, websites, and fun games. I am currently learning full-stack development, from frontend interfaces to backend APIs and databases.
 
-About Me 😄
+## 🔭 I'm Currently Working On
+- Frontend module for an academic product management app (NestJS backend already built)
+- A Kanban task board SPA (RiwiFlow)
+- An independent video game project (a life simulator)
 
-Currently I'm learning about programing because I would like to create 
-aplications that help people, automated programs or websites and 
-create fun games!
-
-
-🔭 The tools I work with are:
-- Git
-- Github
-
-
-🌱 Currently my Programing Language is:
+## 💻 Languages I Use
 - Python
+- JavaScript
+- TypeScript
+- SQL
 
+## 🌐 Frontend
+- HTML & CSS
+- React
+- Vite
+- Tailwind CSS
+- Vanilla JavaScript (SPA development)
 
-💬 but I want to learn others programming Languages such as:
-- Javascript
+## 🔧 Backend
+- Node.js
+- Express
+- NestJS
+- JWT authentication & bcrypt
+
+## 🗄️ Databases
+- PostgreSQL
+- MongoDB
+
+## 🛠️ Tools
+- Git & GitHub
+- Docker
+- DBeaver
+- Figma
+- Axios
+
+## 🌱 Languages I Want to Learn
 - C#
 - C++
 - Java
 
-💬 My Preferences:
-- I like play the guitar.
-- I like the technology.
-- I like the videogames.
-- I like listen music.
+## 📂 Some of My Projects
+- **VersaFit** – A fitness REST API with authentication and secure password handling
+- **RiwiSupply** – A PostgreSQL database project with normalization, ERDs, and SQL queries
+- **RiwiFlow** – A Kanban board SPA built with Vite and vanilla JavaScript
+- **SpaceBook** – A workspace reservation SPA
+- **CineClub** – A cinema app built with TypeScript
 
-My social networks
+## 💬 My Preferences
+- I like playing the guitar 🎸
+- I like technology 💻
+- I like video games 🎮
+- I like listening to music 🎵
+
+## 📫 My Social Networks
 -
 -
 -
