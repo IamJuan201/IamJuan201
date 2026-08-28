@@ -4,8 +4,7 @@ Hi everyone 👋
 I am a software development student. I like to build applications that help people, automated programs, websites, and fun games. I am currently learning full-stack development, from frontend interfaces to backend APIs and databases.
 
 ## 🔭 I'm Currently Working On
-- Frontend module for an academic product management app (NestJS backend already built)
-- A Kanban task board SPA (RiwiFlow)
+- Frontend module for an academic product management app
 - An independent video game project (a life simulator)
 
 ## 💻 Languages I Use
